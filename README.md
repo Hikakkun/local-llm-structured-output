@@ -1,0 +1,2 @@
+# local-llm-structured-output
+ローカルLLMでOpenAIが提供するStructured Outputsのような機能を実現するためのサンプル
